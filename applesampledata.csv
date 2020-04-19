@@ -1,0 +1,5 @@
+date,ticker,variable,value
+2020-04-18,AAPL,open,275
+2020-04-18,AAPL,close,280
+2020-04-19,AAPL,open,284
+2020-04-19,AAPL,close,286
